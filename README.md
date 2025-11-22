@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Mohamed Abdeen 👋</h1>
+<h1 align="center">Hi there, I'm Abdallah Salah 👋</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding gif"/>
@@ -12,9 +12,9 @@
 
 ## 👨‍💻 About Me
 
-- 🧠 I'm a **Software Engineer** specialized in **.NET Backend Development**  
+- 🧠 I'm a **Software Engineer** specialized in **.NET frontend Development**  
 - 💼 Passionate about building scalable, secure, and maintainable web applications  
-- 🛠️ Proficient in **C#**, **ASP.NET Core**, **SQL Server**, **Entity Framework**  
+- 🛠️ Proficient in **pyhton**, **ASP.NET Core**, **SQL Server**, **Entity Framework**  
 - 🎓 B.Sc. in Cybersecurity & Digital Forensics – Faculty of Computers & AI, Benha University  
 - 🚀 Always improving and learning new technologies and design principles  
 - 🌍 Based in Egypt 🇪🇬  
